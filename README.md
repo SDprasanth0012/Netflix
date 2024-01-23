@@ -9,7 +9,7 @@
 + Start React App
 
 
-## Watch it on [Youtube](https://www.youtube.com/watch?v=HgaJW2I4Mbk)
+
 
 =======
 # Netflix
